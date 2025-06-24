@@ -1,0 +1,8 @@
+node_modules/
+src/resources/assets/uploads/
+src/resources/assets/images/
+
+src/resources/js/alpine.bundle.js
+src/resources/style/output.css
+
+.DS_Store
